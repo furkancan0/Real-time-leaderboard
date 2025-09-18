@@ -13,4 +13,7 @@ The Real-Time Leaderboard project is a backend service designed to manage and di
 - Redis  
 - PostgreSQL  
 - JWT  
-- Keycloak  
+- Keycloak
+
+# Project Idea
+https://roadmap.sh/projects/realtime-leaderboard-system
