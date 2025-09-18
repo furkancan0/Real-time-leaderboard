@@ -2,17 +2,17 @@ The Real-Time Leaderboard project is a backend service designed to manage and di
 It provides a comprehensive set of features for user authentication, game management, and score tracking.   
 Users can sign up, log in, and submit their scores, which are then used to generate dynamic leaderboards.  
 
-Real-time Features  
+##Real-time Features  
 
-WebSocket integration for live updates  
-Real-time message delivery  
-Real-time leaderboard updates  
-Update databse from redis using time schedule  
+- WebSocket integration for live updates  
+- Real-time message delivery  
+- Real-time leaderboard updates  
+- Update databse from redis using time schedule  
 
-Technology  
+##Technology  
 
-Spring boot  
-Redis  
-PostgreSQL  
-JWT  
-Keycloak  
+- Spring boot  
+- Redis  
+- PostgreSQL  
+- JWT  
+- Keycloak  
