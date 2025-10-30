@@ -5,7 +5,7 @@ The Real-Time Leaderboard project is a backend service designed to manage and di
 - WebSocket integration for live updates  
 - Real-time message delivery  
 - Real-time leaderboard updates  
-- Update databse from redis using time schedule  
+- Update databse periodically from redis using time schedule  
 
 # Technology  
 
